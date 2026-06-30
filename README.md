@@ -187,9 +187,11 @@ Secteur / Sector : EdTech / Gestion scolaire
 | Cas de test / Test cases | < 50 |
 | Détails & responsabilités / Details & responsibilities | FR — Premier projet QA, en équipe de 4 QA encadrée par un Team Lead. Lecture et rédaction de cas de test directement dans TestQuality, en parallèle de la prise en main des User Stories via Jira pour comprendre les exigences fonctionnelles avant écriture des scénarios.<br>EN — First QA project, working within a team of 4 QA supervised by a Team Lead. Reading and writing test cases directly in TestQuality, alongside getting familiar with User Stories in Jira to understand functional requirements before writing test scenarios. |
 
+---
 
-📂 Contenu du Repository / Repository Structure
+## 📂 Contenu du Repository / Repository Structure
 
+```
 wassim-amri-qa/
 │
 ├── README.md                        ← Profil & portfolio
@@ -212,10 +214,16 @@ wassim-amri-qa/
 │
 └── 05-certifications/
     └── README.md
+```
 
-📬 Contact:
-📞 Téléphone / WhatsApp : (+216) 25 788 732
-📧 Email : amri.wassim@outlook.fr
+---
 
-N'hésitez pas à explorer les dossiers pour voir mes artefacts QA.
-Feel free to explore the folders to see my QA artifacts.
+## 📬 Contact
+
+- 📞 Téléphone / WhatsApp : +216 25 788 732
+- 📧 Email : amri.wassim@outlook.fr
+
+---
+
+*N'hésitez pas à explorer les dossiers pour voir mes artefacts QA.*
+*Feel free to explore the folders to see my QA artifacts.*
