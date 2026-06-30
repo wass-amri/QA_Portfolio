@@ -2,6 +2,19 @@
 
 ---
 
+## Compétences clés / Key Skills
+
+| | |
+|---|---|
+| Expérience / Experience | 1-2 ans / 1-2 years |
+| Spécialités / Specialties | Tests fonctionnels, régression, UAT, API / Functional, regression, UAT, API testing |
+| Outils principaux / Core tools | Jira, Redmine, Squash TM, TestQuality, Postman |
+| Méthodologies / Methodologies | Agile/Scrum, Cycle en V/V-Model |
+| Langues de travail / Working languages | Français, Anglais / French, English |
+| Volume / Track record | 1 125+ cas de test, 149+ bugs, 7 projets / 1,125+ test cases, 149+ bugs, 7 projects |
+
+---
+
 ## FR — À propos de moi | EN — About Me
 
 FR — Mon parcours ne débute pas dans le test logiciel, mais dans la comptabilité, avec un Mastère Professionnel à l'IHE Tunis. C'est en analysant des écarts comptables qui devaient être systématiquement expliqués avant la clôture des dossiers que j'ai compris ce qui me motivait réellement : non pas le chiffre en lui-même, mais la détection de ce qui ne fonctionne pas. Le test logiciel m'a ensuite permis de transformer cette logique en métier, appliqué cette fois aux applications plutôt qu'aux états financiers.
@@ -69,6 +82,9 @@ What I take from this journey is that quality isn't just a technical skill, but 
 | 🐛 Bugs détectés & reportés / Bugs detected & reported | 149 |
 | 🏭 Secteurs couverts / Sectors covered | 5 (Fintech, EdTech, E-commerce, Énergie/Energy, Smart Energy) |
 
+> FR — *Méthode de calcul : somme des cas de test chiffrés des Projets 2 à 5 (811 + 81 + 51 + 182). Les Projets 1 (en cours) et 6-7 (volumes non précisément quantifiés, < 50 chacun) sont exclus du total pour ne pas surestimer.*
+> EN — *Calculation method: sum of quantified test cases from Projects 2 to 5 (811 + 81 + 51 + 182). Projects 1 (ongoing) and 6-7 (volumes not precisely quantified, < 50 each) are excluded from the total to avoid overstating.*
+
 ---
 
 ## 📁 Projets / Projects
@@ -129,7 +145,7 @@ Secteur / Sector : Fintech / Bancaire
 | Rôle / Role | Rédaction, exécution, UAT, report de bugs / Test writing, execution, UAT, bug reporting |
 | Durée / Duration | 3 à 6 mois / 3 to 6 months |
 | Cas de test / Test cases | 51 |
-| Bugs détectés / Bugs detected | 4 |
+| Bugs détectés / Bugs detected | 4 *(phase UAT — application déjà stabilisée par les phases de test précédentes / UAT phase — application already stabilized by prior test phases)* |
 | Détails & responsabilités / Details & responsibilities | FR — Support à la revue des documents livrables envoyés aux clients · Analyse, reconstitution et explication des bugs externes reçus en cas de non-conformité · Création de fichiers Excel de suivi pour toutes les parties prenantes · Interaction directe avec le client lors de la rédaction des cas de test.<br>EN — Support in reviewing client-facing deliverable documents · Analysis, reconstitution and explanation of externally reported bugs in case of non-conformity · Creation of tracking Excel files for all stakeholders · Direct client interaction during test case writing. |
 
 ---
@@ -171,11 +187,9 @@ Secteur / Sector : EdTech / Gestion scolaire
 | Cas de test / Test cases | < 50 |
 | Détails & responsabilités / Details & responsibilities | FR — Premier projet QA, en équipe de 4 QA encadrée par un Team Lead. Lecture et rédaction de cas de test directement dans TestQuality, en parallèle de la prise en main des User Stories via Jira pour comprendre les exigences fonctionnelles avant écriture des scénarios.<br>EN — First QA project, working within a team of 4 QA supervised by a Team Lead. Reading and writing test cases directly in TestQuality, alongside getting familiar with User Stories in Jira to understand functional requirements before writing test scenarios. |
 
----
 
-## 📂 Contenu du Repository / Repository Structure
+📂 Contenu du Repository / Repository Structure
 
-```
 wassim-amri-qa/
 │
 ├── README.md                        ← Profil & portfolio
@@ -198,16 +212,10 @@ wassim-amri-qa/
 │
 └── 05-certifications/
     └── README.md
-```
 
----
+📬 Contact:
+📞 Téléphone / WhatsApp : (+216) 25 788 732
+📧 Email : amri.wassim@outlook.fr
 
-## 📬 Contact
-
-- 📞 Téléphone / WhatsApp : +216 25 788 732
-- 📧 Email : amri.wassim@outlook.fr
-
----
-
-*N'hésitez pas à explorer les dossiers pour voir mes artefacts QA.*
-*Feel free to explore the folders to see my QA artifacts.*
+N'hésitez pas à explorer les dossiers pour voir mes artefacts QA.
+Feel free to explore the folders to see my QA artifacts.
